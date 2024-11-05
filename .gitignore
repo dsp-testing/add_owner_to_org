@@ -1,0 +1,11 @@
+node_modules
+artifacts
+.env*
+dist
+.idea
+logged-in-state.json
+.tool-versions
+.DS_Store
+results.*
+test-results/
+.nyc_output/
